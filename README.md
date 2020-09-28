@@ -7,6 +7,7 @@ Short overview for Commands and Usage
 - Name: *Csharp TestBob*
 - Version: *0.0.2 Alpha*
 - Tasks: *Welcome, Admin Stuff, Register*
+- **Powered by Wongkaying**
 
 ## Commands
   `_bot` shows Informations of the Bot
