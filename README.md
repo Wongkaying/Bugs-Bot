@@ -7,8 +7,6 @@
   <a href="https://discord.gg/NHRm9Xs"><img src="https://discordapp.com/api/guilds/583038901367603215/widget.png?style=shield" alt="Discord"></a>
 </p>
 
-Short overview for Commands and Usage
-
 **Bot Inforrmations**
 - Name: *Csharp TestBob*
 - Version: *0.0.2 Alpha*
