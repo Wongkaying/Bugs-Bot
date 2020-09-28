@@ -20,6 +20,7 @@ Short overview for Commands and Usage
   
   Did you have one? Then follow below.
   
- Click here (https://github.com/Wongkaying/Fallen-West-Server/issues/new/choose "Logo Title Text 1") to Report a bug!
-![alt text](https://github.com/Wongkaying/Fallen-West-Server/issues/new/choose "Logo Title Text 1")
-
+ Click [here](https://github.com/Wongkaying/Fallen-West-Server/issues/new/choose) to Report a bug!
+ 
+ - Choose one of the possible Choises
+ - Follow the Instructions
