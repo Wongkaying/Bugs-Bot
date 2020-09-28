@@ -14,3 +14,8 @@ Short overview for Commands and Usage
   `_register` you can register to Server
   
   `_issue` Report a Bug on GitHub
+  
+  ## Report a Bug
+  To report a Bug you need a GitHub Account!
+  
+  Did you have one? Then follow below.
