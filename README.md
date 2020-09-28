@@ -1,5 +1,5 @@
 # ![Logo](screenshots/Fallen_West_Discord_Logo.png)Fallen-West-Server![Logo](screenshots/Fallen_West_Discord_Logo.png)
-Repository to report Bugs and Feature Requests
+![Discord Shield](https://discordapp.com/api/guilds/583038901367603215/widget.png?style=shield)
 
 Short overview for Commands and Usage
 
@@ -26,6 +26,5 @@ Short overview for Commands and Usage
  - Choose one of the possible Choises
  - Follow the Instructions
  
-![Discord Shield](https://discordapp.com/api/guilds/583038901367603215/widget.png?style=shield)
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/583038901367603215/widget.png?style=banner2)
