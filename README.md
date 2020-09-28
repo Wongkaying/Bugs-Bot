@@ -1,4 +1,3 @@
-# Fallen West Server
 <p align="center"><img src="screenshots/Fallen_West_Discord_Logo.png"></p>
 
 <p align="center">
