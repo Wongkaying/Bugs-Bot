@@ -15,9 +15,9 @@
 ## Bot Commands
   `_bot` shows Informations of the Bot
   
-  `_register` you can register to Server
+  `_register / _r` you can register to Server
   
-  `_issue` Report a Bug on GitHub
+  `_issue / _bug` Report a Bug on GitHub
   
   ## Report a Bug
   To report a Bug you need a GitHub Account!
