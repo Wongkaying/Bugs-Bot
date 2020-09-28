@@ -19,3 +19,7 @@ Short overview for Commands and Usage
   To report a Bug you need a GitHub Account!
   
   Did you have one? Then follow below.
+  
+ Click here (https://github.com/Wongkaying/Fallen-West-Server/issues/new/choose "Logo Title Text 1") to Report a bug!
+![alt text](https://github.com/Wongkaying/Fallen-West-Server/issues/new/choose "Logo Title Text 1")
+
