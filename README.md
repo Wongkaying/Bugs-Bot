@@ -9,7 +9,7 @@ Short overview for Commands and Usage
 - Tasks: *Welcome, Admin Stuff, Register*
 - **Powered by Wongkaying**
 
-## Commands
+## Bot Commands
   `_bot` shows Informations of the Bot
   
   `_register` you can register to Server
