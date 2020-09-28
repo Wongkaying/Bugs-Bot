@@ -7,8 +7,11 @@ Repository to report Bugs and Feature Requests
 - Tasks: *Welcome, Admin Stuff, Register*
 
 <h1>Commands</h1>
-  <code>_bot<code> shows Informations of the Bot
+  <code>_bot<code> 
+  shows Informations of the Bot
   
-  <code>_register<code> you can register to Server
+  <code>_register<code> 
+  you can register to Server
   
-  <code>_issue<code> Report a Bug on GitHub
+  <code>_issue<code> 
+  Report a Bug on GitHub
