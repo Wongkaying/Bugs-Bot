@@ -6,9 +6,9 @@ Repository to report Bugs and Feature Requests
 - Version: *0.0.2 Alpha*
 - Tasks: *Welcome, Admin Stuff, Register*
 
-<h1>Commands</h1>
-  <code>_bot</code> shows Informations of the Bot
-  </br></br>
-  <code>_register</code> you can register to Server
-  </br></br>
-  <code>_issue</code> Report a Bug on GitHub
+## Commands
+  `_bot` shows Informations of the Bot
+  
+  `_register` you can register to Server
+  
+  `_issue` Report a Bug on GitHub
