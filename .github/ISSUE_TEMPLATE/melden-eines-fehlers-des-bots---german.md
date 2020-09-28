@@ -10,6 +10,10 @@ assignees: Wongkaying
 **Beschreibe den Fehler**
 Eine klare und kurze Beschreibung des Fehlers
 
+**Version**
+Um welche Version des Botes handelt es sich?
+*Siehe readme / `_issue / _bug`*
+
 **Welcher Befehl?**
 Gebe den Befehl an, mit welchem der Fehler auftritt!
 Befehl:
@@ -22,4 +26,4 @@ Beschreibe den Fehler bitte kurz!
 2. Falls der Fehler reproduzierbar ist, beschreibe bitte die Schritte, was du machst, damit er auftritt.
 
 **Screenshots**
-Falls die Screenshots von dem Fehler / der Fehlermeldung hast, hänge sie bitte hier an
+Falls du Screenshots von dem Fehler / der Fehlermeldung hast, hänge sie bitte hier an

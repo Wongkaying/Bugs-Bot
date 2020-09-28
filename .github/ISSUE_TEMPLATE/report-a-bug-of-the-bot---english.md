@@ -10,6 +10,10 @@ assignees: Wongkaying
 ** Describe the bug **
 A clear and brief description of the error
 
+**Version**
+Which version of the bot is it?
+* See readme / `_issue / _bug` *
+
 ** Which command? **
 Enter the command with which the error occurs!
 Command:
