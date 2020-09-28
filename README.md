@@ -1,4 +1,6 @@
-# ![Logo](screenshots/Fallen_West_Discord_Logo.png)Fallen-West-Server![Logo](screenshots/Fallen_West_Discord_Logo.png)
+# Fallen West Server
+<p align="center"><img src="screenshots/Fallen_West_Discord_Logo.png"></p>
+
 <p align="center">
 <a href="https://github.com/Wongkaying/Fallen-West-Server/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues-raw/Wongkaying/Fallen-West-Server.svg?label=Open%20Issues" alt="Open Issues"></a>
 <a href="https://github.com/Wongkaying/Fallen-West-Server/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-raw/Wongkaying/Fallen-West-Server.svg?label=Closed%20Issues" alt="Closed Issues"></a>
