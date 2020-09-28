@@ -7,7 +7,7 @@
   <a href="https://discord.gg/NHRm9Xs"><img src="https://discordapp.com/api/guilds/583038901367603215/widget.png?style=shield" alt="Discord"></a>
 </p>
 
-**Bot Inforrmations**
+## Bot Inforrmations
 - Name: *Csharp TestBob*
 - Version: *0.0.2 Alpha*
 - Tasks: *Welcome, Admin Stuff, Register*
