@@ -1,4 +1,4 @@
-# Fallen-West-Server
+# ![Native Command](_screenshots/Fallen_West_Discord_Logo_Gif.gif)Fallen-West-Server
 Repository to report Bugs and Feature Requests
 
 Short overview for Commands and Usage
