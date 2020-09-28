@@ -8,7 +8,7 @@ Repository to report Bugs and Feature Requests
 
 <h1>Commands</h1>
   <code>_bot</code> shows Informations of the Bot
-  
+  </br
   <code>_register</code> you can register to Server
-  
+  </br>
   <code>_issue</code> Report a Bug on GitHub
