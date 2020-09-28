@@ -1,7 +1,7 @@
 ---
 name: Report a Bug of the Bot | ENGLISH
 about: Errors related to the bot can be reported here.
-title: ''
+title: Issue xy with command _xy
 labels: bug
 assignees: Wongkaying
 
