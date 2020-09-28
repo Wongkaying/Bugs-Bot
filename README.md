@@ -25,3 +25,7 @@ Short overview for Commands and Usage
  
  - Choose one of the possible Choises
  - Follow the Instructions
+ 
+![Discord Shield](https://discordapp.com/api/guilds/583038901367603215/widget.png?style=shield)
+
+![Discord Banner 2](https://discordapp.com/api/guilds/583038901367603215/widget.png?style=banner2)
