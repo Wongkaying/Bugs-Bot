@@ -1,4 +1,4 @@
-# ![Logo](screenshots/Fallen_West_Discord_Logo.png)Fallen-West-Server ![Logo](screenshots/Fallen_West_Discord_Logo.png)
+# ![Logo](screenshots/Fallen_West_Discord_Logo.png)Fallen-West-Server![Logo](screenshots/Fallen_West_Discord_Logo.png)
 Repository to report Bugs and Feature Requests
 
 Short overview for Commands and Usage
