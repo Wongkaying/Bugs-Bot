@@ -1,5 +1,6 @@
 # Fallen-West-Server
 Repository to report Bugs and Feature Requests
+
 Short overview for Commands and Usage
 
 **Bot Inforrmations**
