@@ -7,15 +7,13 @@
 </p>
 
 ## Bot Inforrmations
-- Name: *Csharp TestBob*
-- Version: *0.0.2 Alpha*
-- Tasks: *Welcome, Admin Stuff, Register*
+- Name: *🤠Fallen West🤠*
+- Version: *0.1.0*
+- Tasks: *Welcome, Admin Stuff, LanguageChoise, RoleAcception*
 - **Powered by Wongkaying**
 
 ## Bot Commands
   `_bot` shows Informations of the Bot
-  
-  `_register / _r` you can register to Server
   
   `_issue / _bug` Report a Bug on GitHub
   
@@ -24,7 +22,7 @@
   
   Did you have one? Then follow below.
   
- **Click [here](https://github.com/Wongkaying/Fallen-West-Server/issues/new/choose) to Report a bug!**
+ **Click [here](https://github.com/Wongkaying/Bugs-Bot/issues/new/choose) to Report a bug!**
  
  - Choose one of the possible Choises
  - Follow the Instructions
