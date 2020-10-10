@@ -9,7 +9,6 @@
 
 ## Bot Inforrmations
 - Name: *🤠Fallen West🤠*
-- Version: *0.1.0*
 - Tasks: *Welcome, Admin Stuff, LanguageChoise, RoleAcception*
 - **Powered by Wongkaying**
 
