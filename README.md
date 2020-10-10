@@ -1,7 +1,7 @@
 <p align="center"><img src="screenshots/Fallen_West_Discord_Logo.png"></p>
 
 <p align="center">
- <a href="https://badge.fury.io/gh/Wongkaying%2FBugs-Bot"><img src="https://badge.fury.io/gh/Wongkaying%2FBugs-Bot.svg" alt="GitHub version"></a>
+ <a href="https://badge.fury.io/gh/Wongkaying%2FBugs-Bot"><img src="https://img.shields.io/badge/Version-0.2.0-Green" alt="GitHub version"></a>
 <a href="https://github.com/Wongkaying/Fallen-West-Server/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues-raw/Wongkaying/Fallen-West-Server.svg?label=Open%20Issues" alt="Open Issues"></a>
 <a href="https://github.com/Wongkaying/Fallen-West-Server/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-raw/Wongkaying/Fallen-West-Server.svg?label=Closed%20Issues" alt="Closed Issues"></a>
   <a href="https://discord.gg/NHRm9Xs"><img src="https://discordapp.com/api/guilds/583038901367603215/widget.png?style=shield" alt="Discord"></a>
