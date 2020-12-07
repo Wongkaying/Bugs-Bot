@@ -9,7 +9,7 @@
 
 ## Bot Inforrmations
 - Name: *🤠Fallen West🤠*
-- Tasks: *Welcome, Admin Stuff, LanguageChoise, RoleAcception*
+- Tasks: *Welcome, Admin Stuff, LanguageChoise, RoleAcception, TicketSystem*
 - **Powered by Wongkaying**
 
 ## Bot Commands
