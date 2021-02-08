@@ -1,7 +1,7 @@
 <p align="center"><img src="screenshots/Fallen_West_Discord_Logo.png"></p>
 
 <p align="center">
- <a href="https://badge.fury.io/gh/Wongkaying%2FBugs-Bot"><img src="https://img.shields.io/badge/Version-0.2.3-Green" alt="GitHub version"></a>
+ <a href="https://badge.fury.io/gh/Wongkaying%2FBugs-Bot"><img src="https://img.shields.io/badge/Version-0.2.6-Green" alt="GitHub version"></a>
 <a href="https://github.com/Wongkaying/Fallen-West-Server/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues-raw/Wongkaying/Fallen-West-Server.svg?label=Open%20Issues" alt="Open Issues"></a>
 <a href="https://github.com/Wongkaying/Fallen-West-Server/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-raw/Wongkaying/Fallen-West-Server.svg?label=Closed%20Issues" alt="Closed Issues"></a>
   <a href="https://discord.gg/NHRm9Xs"><img src="https://discordapp.com/api/guilds/583038901367603215/widget.png?style=shield" alt="Discord"></a>
@@ -13,19 +13,21 @@
 - **Powered by Wongkaying**
 
 ## Bot Commands
-  `_bot` shows informations of the bot
+  `_bot` 
+  - Shows informations of the bot
   
-  `_issue / _bug` Report a bug on GitHub
+  `_issue / _bug` 
+  - Report a bug on GitHub
   
-  `_setupstats` Create Serverstats for your guild
+  `_setupstats` 
+  - Create serverstats for your guild
   
-  `_setuptickets` Setup and activate the ticketsytem
+  `_an / _announcement [option]` 
+  - Send a message as bot to channel. #
+  - Automatically formatted in markdown.
+  -  Add "atall" after the command to mention everyone
+  - Leaving out "atall" doesn't mention anyone
   
-  `_setuplanguagechoise` Setup and activate the language choise system
-  
-  `_setuprules` Setup and activate the rule acception system
- 
- `_setupprefix` Setup your prefix to use commands
   
   ## Report a Bug
   To report a Bug you need a GitHub Account!
