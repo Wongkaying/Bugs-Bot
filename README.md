@@ -58,5 +58,8 @@
  - Choose one of the possible Choises
  - Follow the Instructions
  
+ ## Invite
+ **Invite [me](https://discord.com/oauth2/authorize?client_id=741462567590821948&scope=bot%20applications.commands&permissions=334756927)**
+ 
 ## Discord
 [![Discord Banner 2](https://discordapp.com/api/guilds/583038901367603215/widget.png?style=banner2)](https://discord.gg/NHRm9Xs)
